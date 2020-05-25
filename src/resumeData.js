@@ -3,7 +3,7 @@ let resumeData = {
     "name": "Adrián Cruz Ramos",
     "role": "Engineer | Technology Enthusiast",
     "linkedinId":"adrian-cruz-ramos",
-    "roleDescription": "I am a Biomedical Engineer by trade, but a technology optimist by choice. I enjoy exposing myself to different challenges and explore all the opportunities innovation has to offer.",
+    "roleDescription": "Biomedical Engineer by trade, but a technology optimist by choice. I enjoy exposing myself to different challenges and explore all the opportunities innovation has to offer.",
     "socialLinks":[
         {
           "name":"linkedin",
@@ -19,6 +19,8 @@ let resumeData = {
     "aboutme":"Project Manager with experience as an IoT entrepreneur and educated at the University of Texas at Austin, McCombs School of Business Master of Science in Technology Commercialization program. Skills in software development as well as entrepreneurship and strengths in meeting deadlines, managing projects and cross-functional collaboration.  Successfully landed the first major client and delivered a fully functional MVP of a San Antonio based startup focused on hassle-free client management solutions. Passionate about approaching new projects and challenges through different perspectives and fostering effective and meaningful teamwork. Excited to explore and develop new projects that will expand my knowledge and push me to think unconventionally. My education paired with my diverse entrepreneurship experience, make me a strong addition for any development and project management team.",
     "address":"San Antonio, TX",
     "website":"https://rbhatia46.github.io",
+    "email":"adriancrz93@gmail.com",
+    // "resume":""
     "education":[
       {
         "UniversityName":"The Univeristy of Texas at Austin",
@@ -76,7 +78,7 @@ let resumeData = {
         "YearOfLeaving":"2017",
       },
     ],
-    "skillsDescription":"Your skills here",
+    "skillsDescription":"Current Skills",
     "skills":[
       {
         "skillname":"HTML5"

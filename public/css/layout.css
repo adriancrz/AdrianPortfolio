@@ -346,14 +346,24 @@ ul#nav li.current a { color: #F06000; }
   	-webkit-animation: css 2s ease;
 }
 .html5 {
-  	width: 80%;
+  	width: 90%;
   	-moz-animation: html5 2s ease;
   	-webkit-animation: html5 2s ease;
 }
-.jquery {
-  	width: 50%;
-  	-moz-animation: jquery 2s ease;
-  	-webkit-animation: jquery 2s ease;
+.mern {
+   width: 80%;
+   -moz-animation: mern 2s ease;
+   -webkit-animation: mern 2s ease;
+}
+.crud {
+   width: 60%;
+   -moz-animation: crud 2s ease;
+   -webkit-animation: crud 2s ease;
+}
+.javascript {
+  	width: 70%;
+  	-moz-animation: javescript 2s ease;
+  	-webkit-animation: javascript 2s ease;
 }
 
 @-moz-keyframes photoshop {
