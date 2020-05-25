@@ -1,61 +1,80 @@
 let resumeData = {
-    "imagebaseurl":"https://rbhatia46.github.io/",
-    "name": "Rahul Bhatia",
-    "role": "Frontend Developer and Data Scientist",
-    "linkedinId":"Your LinkedIn Id",
-    "skypeid": "Your skypeid",
-    "roleDescription": "I like dabbling in various parts of frontend development and like to learn about new technologies, write technical articles or simply play games in my free time.",
+    "imagebaseurl":"https://github.com/adriancrz",
+    "name": "Adrián Cruz Ramos",
+    "role": "Engineer | Technology Enthusiast",
+    "linkedinId":"adrian-cruz-ramos",
+    "roleDescription": "I am a Biomedical Engineer by trade, but a technology optimist by choice. I enjoy exposing myself to different challenges and explore all the opportunities innovation has to offer.",
     "socialLinks":[
         {
           "name":"linkedin",
-          "url":"https://www.linkedin.com/in/rahul-bhatia-67ba08121/",
+          "url":"www.linkedin.com/in/adrian-cruz-ramos",
           "className":"fa fa-linkedin"
         },
         {
           "name":"github",
-          "url":"http://github.com/rbhatia46",
+          "url":"https://github.com/adriancrz",
           "className":"fa fa-github"
         },
-        {
-          "name":"skype",
-          "url":"http://twitter.com/rbhatia46",
-          "className":"fa fa-twitter"
-        }
       ],
-    "aboutme":"I am currently a pre-final year student at The LNM Institute of Information Technology and pursuing my B.Tech from here. I am a self taught Full Stack Web Developer, currently diving deeper into Machine Learning. I believe that to be successful in life, one needs to be obsessive with their dreams and keep working towards them.",
-    "address":"India",
+    "aboutme":"Project Manager with experience as an IoT entrepreneur and educated at the University of Texas at Austin, McCombs School of Business Master of Science in Technology Commercialization program. Skills in software development as well as entrepreneurship and strengths in meeting deadlines, managing projects and cross-functional collaboration.  Successfully landed the first major client and delivered a fully functional MVP of a San Antonio based startup focused on hassle-free client management solutions. Passionate about approaching new projects and challenges through different perspectives and fostering effective and meaningful teamwork. Excited to explore and develop new projects that will expand my knowledge and push me to think unconventionally. My education paired with my diverse entrepreneurship experience, make me a strong addition for any development and project management team.",
+    "address":"San Antonio, TX",
     "website":"https://rbhatia46.github.io",
     "education":[
       {
-        "UniversityName":"The LNM Insitute of Information Technology",
-        "specialization":"Some specialization",
-        "MonthOfPassing":"Aug",
-        "YearOfPassing":"2020",
-        "Achievements":"Some Achievements"
+        "UniversityName":"The Univeristy of Texas at Austin",
+        "specialization":"Master of Science in Technology Commercialization (MSTC)",
+        "MonthOfPassing":"May",
+        "YearOfPassing":"2018",
+        // "Achievements":"Some Achievements"
       },
       {
-        "UniversityName":"Some University",
-        "specialization":"Some specialization",
-        "MonthOfPassing":"Jan",
-        "YearOfPassing":"2018",
-        "Achievements":"Some Achievements"
-      }
+        "UniversityName":"The University of Texas at San Antonio",
+        "specialization":"Bachelor of Science in Biomedical Engineering",
+        "MonthOfPassing":"May",
+        "YearOfPassing":"2016",
+        "Achievements":"Cum Laude - GPA 3.64"
+      },
+      {
+        "UniversityName":"The Univeristy of Texas at Austin",
+        "specialization":"Full Stack Development Certificate",
+        "MonthOfPassing":"May",
+        "YearOfPassing":"2020",
+        // "Achievements":"Some Achievements"
+      },
+      {
+        "UniversityName":"Scrum Alliance",
+        "specialization":"Certified Scrum Master",
+        "MonthOfPassing":"May",
+        "YearOfPassing":"2020",
+        // "Achievements":"Some Achievements"
+      },
+
     ],
     "work":[
       {
-        "CompanyName":"Some Company",
-        "specialization":"Some specialization",
-        "MonthOfLeaving":"Jan",
-        "YearOfLeaving":"2018",
-        "Achievements":"Some Achievements"
+        "CompanyName":"Independent Rough Terrain Center (formerly known as Kalmar RT)",
+        "specialization":"Quality Engineer Manager",
+        "MonthOfLeaving":"2017",
+        "YearOfLeaving":"Present",
       },
       {
-        "CompanyName":"Some Company",
-        "specialization":"Some specialization",
-        "MonthOfLeaving":"Jan",
-        "YearOfLeaving":"2018",
-        "Achievements":"Some Achievements"
-      }
+        "CompanyName":"Elop Inc.",
+        "specialization":"Co-Founder",
+        "MonthOfLeaving":"2017",
+        "YearOfLeaving":"2019",
+      },
+      {
+        "CompanyName":"CheckUps LLC",
+        "specialization":"Business Development Lead & Product Owner",
+        "MonthOfLeaving":"2016",
+        "YearOfLeaving":"2017",
+      },
+      {
+        "CompanyName":"BabyButton",
+        "specialization":"Founder",
+        "MonthOfLeaving":"2015",
+        "YearOfLeaving":"2017",
+      },
     ],
     "skillsDescription":"Your skills here",
     "skills":[
@@ -66,40 +85,46 @@ let resumeData = {
         "skillname":"CSS"
       },
       {
-        "skillname":"Reactjs"
+        "skillname":"JavaScript"
+      },
+      {
+        "skillname":"MERN"
+      },
+      {
+        "skillname":"CRUD"
       }
     ],
     "portfolio":[
       {
-        "name":"project1",
-        "description":"mobileapp",
-        "imgurl":"images/portfolio/phone.jpg"
-      },
-      {
-        "name":"project2",
-        "description":"mobileapp",
-        "imgurl":"images/portfolio/project.jpg"
-      },
-      {
-        "name":"project3",
-        "description":"mobileapp",  
-        "imgurl":"images/portfolio/project2.png"
-      },
-      {
-        "name":"project4",
-        "description":"mobileapp",
+        "name":"DoggoCalendar",
+        "description":"Webapp for dog owners to easily schedule and find dog play dates.",
         "imgurl":"images/portfolio/phone.jpg"
       }
+      // {
+      //   "name":"project2",
+      //   "description":"mobileapp",
+      //   "imgurl":"images/portfolio/project.jpg"
+      // },
+      // {
+      //   "name":"project3",
+      //   "description":"mobileapp",  
+      //   "imgurl":"images/portfolio/project2.png"
+      // },
+      // {
+      //   "name":"project4",
+      //   "description":"mobileapp",
+      //   "imgurl":"images/portfolio/phone.jpg"
+      // }
     ],
     "testimonials":[
       {
-        "description":"This is a sample testimonial",
-        "name":"Some technical guy"
-      },
-      {
-        "description":"This is a sample testimonial",
-        "name":"Some technical guy"
+        "description":"Adrian is an amazing presenter and engineer. Its rare to see engineers who are well articulated and he can take complex technical ideas and explain them to anyone. I've really enjoyed discussing tech with him and boiling them down into products.",
+        "name":"Sami Suteria"
       }
+      // {
+      //   "description":"This is a sample testimonial",
+      //   "name":"Some technical guy"
+      // }
     ]
   }
   
