@@ -2,7 +2,7 @@ let resumeData = {
     "imagebaseurl":"https://github.com/adriancrz",
     "name": "Adrián Cruz Ramos",
     "role": "Engineer | Technology Enthusiast",
-    "linkedinId":"adrian-cruz-ramos",
+    "linkedinId":"https://www.linkedin.com/in/adrian-cruz-ramos/",
     "roleDescription": "Biomedical Engineer by trade, but a technology optimist by choice. I enjoy exposing myself to different challenges and explore all the opportunities innovation has to offer.",
     "socialLinks":[
         {
