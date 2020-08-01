@@ -1,0 +1,182 @@
+{
+  "main": {
+    "name":"Adrián Cruz",
+    "description":"Project Manager | Engineer | Entrepreneur",
+    "image":"profilepic.jpg",
+    "bio":"Project Manager leveraging experience as an IoT entrepreneur and in engineering, product development, and business commercialization. Proven expertise developing innovative and user-centric applications. Successfully landed the first major client and delivered a fully functional MVP for a San Antonio based startup focused on hassle-free client management solutions and provisionally patented an infant monitoring device capable of analyzing vital signs in real-time and providing relevant feedback for parents. An excellent interpersonal communicator and collaborator who works well on team-based projects as well as independently.",
+    "contactmessage":"Let's connect!",
+    "email": "adriancrz93@gmail.com",
+    "phone": "210-636-1067",
+    "github":"https://github.com/adriancrz",
+    "linkedin":"https://www.linkedin.com/in/adrian-cruz-ramos/",
+    "address":{
+      "city":"San Antonio",
+      "state":"Texas"
+    },
+    "website": "public/images/CruzAdrián_Resume.pdf",
+    "resumeDownload":"public/images/CruzAdrián_Resume.pdf",
+    "social":[
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/adrian-cruz-ramos/",
+        "className":"fa fa-linkedin"
+      },
+
+      {
+        "name":"github",
+        "url":"https://github.com/adriancrz",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "education":[
+      {
+        "school":"University of Texas, Austin",
+        "degree":"Masters of Science in Technology Commercialization (MSTC)",
+        "graduated":"May 2018",
+        "description":"Program from The McCombs School of Business focused on the intersection of business, technology and innovation"
+      },
+      {
+        "school":"University of Texas, San Antonio",
+        "degree":"Bachelor of Science in Biomedical Engineering (BME)",
+        "graduated":"May 2016",
+        "description":"Program focused on engineering principles and the understanding of biological and physical sciences critical to the investigation of bioengineering as well as the diagnosis and treatment of human diseases."
+      },
+      {
+        "school":"University of Texas, San Antonio",
+        "degree":"Lean Six Sigma - Green Belt",
+        "graduated":"December 2019",
+        "description":"Certificate."
+      },
+      {
+        "school":"ScrumAlliance",
+        "degree":"Scrum Master",
+        "graduated":"May 2020",
+        "description":"Certificate"
+      },
+      {
+        "school":"University of Texas, Austin",
+        "degree":"Full Stack Development",
+        "graduated":"May 2020",
+        "description":"Certificate"
+      }
+    ],
+    "work":[
+      {
+        "company":"Independent Rough Terrain Center",
+        "title":"Quality & Supplier Development Engineer Manager",
+        "years":"2017 - Present",
+        "description":"Managed and imprvoed both interanal and supplier (60+ suppliers) manufacturing/assembly processes to support new product lines and vehicle life extension programs."
+      },
+      {
+        "company":"Elop",
+        "title":"Co-Founder",
+        "years":"2017 - 2019",
+        "description":"Automated native mobile app development; developed comprehensive B2B sales strategy, introduced first beta yser into system, and built website using reactJS libraries."
+      },
+      {
+        "company":"CheckUps LLC",
+        "title":"Product Owner",
+        "years":"2017 - 2018",
+        "description":"Conducted market competitive analysis and benchmarking, deployed direct marketing and branding campaign, and managed the introduction of a new product line for county trials courts through agile frameworks."
+      },
+      {
+        "company":"BabyButton",
+        "title":"Founder",
+        "years":"2015 - 2018",
+        "description":"Built, designed, and provitionally patented am infant monitoring device with a machine learning suite capable of sensing and analyzing sleeping positions, heart rate, calculate blood oxygen levels, and display information on a mobile device via bluetooth."
+      }
+    ],
+    "skills":[
+      {
+        "name":"JavaScript",
+        "level":"80%"
+      },
+      {
+        "name":"Node.js",
+        "level":"70%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"80%"
+      },
+      {
+        "name":"CSS",
+        "level":"80%"
+      },
+      {
+        "name":"MongoDB",
+        "level":"50%"
+      },
+      {
+        "name":"HTML",
+        "level":"80%"
+      },
+      {
+        "name":"CRUD",
+        "level":"65%"
+      },
+      {
+        "name":"Git",
+        "level":"80%"
+      },
+      {
+        "name":"github",
+        "level":"90%"
+      },
+      {
+        "name":"MySQL",
+        "level":"60%"
+      },
+      {
+        "name":"Six-Sigma",
+        "level":"95%"
+      },
+      {
+        "name":"Scrum",
+        "level":"90%"
+      },
+      {
+        "name":"JIRA",
+        "level":"50%"
+      },
+      {
+        "name":"Microsoft Projects",
+        "level":"50%"
+      },
+      {
+        "name":"Leadership",
+        "level":"100%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"DoggoCalendar",
+        "category":"Dog play date scheduler - this website helps dog owners to schedule dog play dates with their fellow dog owner friends.",
+        "image":"Screen Shot 2020-06-27 at 19.37.14.png",
+        "url":"https://doggocalendar.herokuapp.com/"
+      },
+      {
+        "title":"CovidTrckr",
+        "category":"Allows users to keep up to date with the most recent number of active/confirmed cases, recoveries, and deaths per country.",
+        "image":"covidtrkr.png",
+        "url":"https://adriancrz.github.io/covidtrckr/"
+      },
+      {
+        "title":"DnD Party Finder",
+        "category":"(MVP ONLY) DnD Party Finder is a dynamic web application that encourages relationships between DnD fans and players.",
+        "image":"dndparty.png",
+        "url":"https://github.com/adriancrz/DnDParty"
+      },
+      {
+        "title":"StudyWorm",
+        "category":"StudyWorm is a webapp that help those book worms be more efficient and diligent with their studies.",
+        "image":"studyworm.png",
+        "url":"https://adriancrz.github.io/StudyWorm/study"
+      }
+    ]
+  }
+}
